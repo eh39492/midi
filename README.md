@@ -1,3 +1,4 @@
+<img width="887" height="746" alt="Screenshot 2026-10-27 195606" src="https://github.com/user-attachments/assets/20676793-28e1-48d4-84c9-3936cebef3b0" />
 I am making the Half-Life Week 3 starter project: MIDI
 The PCB uses a custom capacitive key layout, a custom part layout, and customizations. The code also uses custom elements. The capacitive touch keys are in a hexagonal shape.
 WHAT IT WILL DO:
