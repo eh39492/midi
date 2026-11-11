@@ -8,4 +8,4 @@ THE PCB desgin
 <img width="1230" height="1157" alt="Screenshot 2026-11-10 185716" src="https://github.com/user-attachments/assets/18aaa7df-ac61-41e5-b7f9-f6f3dd4ca0dc" />
 
 
-PCB in 3d!!
+
