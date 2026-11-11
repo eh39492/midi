@@ -5,7 +5,7 @@ WHAT IT WILL DO:
 When connected to a computer, it plays music and notes; the switches and potentiometers allow audio manipulation like volume and tone!
 
 THE PCB desgin
-<img width="542" height="602" alt="Screenshot 2026-10-25 151107" src="https://github.com/user-attachments/assets/e5b8ebd0-2817-4846-b4a3-6ecfd33c14d5" />
+<img width="1230" height="1157" alt="Screenshot 2026-11-10 185716" src="https://github.com/user-attachments/assets/18aaa7df-ac61-41e5-b7f9-f6f3dd4ca0dc" />
+
 
 PCB in 3d!!
-<img width="1291" height="1147" alt="Screenshot 2026-10-25 173204" src="https://github.com/user-attachments/assets/b12502d7-7070-4b5e-85f3-5810d534b05b" />
